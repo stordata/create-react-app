@@ -32,7 +32,7 @@ if [ -n "$(git status --porcelain)" ]; then
 fi
 
 # Compile
-npm run build:prod -w react-error-overlay
+npm run build:prod -w @stordata/react-error-overlay
 
 # Get 2FA when not CI
 otp=""

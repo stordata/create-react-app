@@ -1,5 +1,5 @@
 {
-  "name": "react-dev-utils",
+  "name": "@stordata/react-dev-utils",
   "version": "12.0.1",
   "description": "webpack utilities used by Create React App",
   "repository": {

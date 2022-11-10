@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-react-app",
+  "name": "@stordata/eslint-config-react-app",
   "version": "7.0.1",
   "description": "ESLint configuration used by Create React App",
   "repository": {
